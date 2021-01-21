@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mary-syp-proof-of-concept/static/css/main.efe90130.chunk.css",
+    "main.js": "/mary-syp-proof-of-concept/static/js/main.88a41f65.chunk.js",
+    "main.js.map": "/mary-syp-proof-of-concept/static/js/main.88a41f65.chunk.js.map",
+    "runtime-main.js": "/mary-syp-proof-of-concept/static/js/runtime-main.fa2f71ad.js",
+    "runtime-main.js.map": "/mary-syp-proof-of-concept/static/js/runtime-main.fa2f71ad.js.map",
+    "static/js/2.2bd53ce6.chunk.js": "/mary-syp-proof-of-concept/static/js/2.2bd53ce6.chunk.js",
+    "static/js/2.2bd53ce6.chunk.js.map": "/mary-syp-proof-of-concept/static/js/2.2bd53ce6.chunk.js.map",
+    "static/js/3.8441cb37.chunk.js": "/mary-syp-proof-of-concept/static/js/3.8441cb37.chunk.js",
+    "static/js/3.8441cb37.chunk.js.map": "/mary-syp-proof-of-concept/static/js/3.8441cb37.chunk.js.map",
+    "index.html": "/mary-syp-proof-of-concept/index.html",
+    "static/css/main.efe90130.chunk.css.map": "/mary-syp-proof-of-concept/static/css/main.efe90130.chunk.css.map",
+    "static/js/2.2bd53ce6.chunk.js.LICENSE.txt": "/mary-syp-proof-of-concept/static/js/2.2bd53ce6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa2f71ad.js",
+    "static/js/2.2bd53ce6.chunk.js",
+    "static/css/main.efe90130.chunk.css",
+    "static/js/main.88a41f65.chunk.js"
+  ]
+}
